@@ -50,3 +50,10 @@ Gramya/
 │   └── helper_functions.py
 └── assets/
     └── images/
+## ⚙️ Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone <your-repository-url>
+cd Gramya
