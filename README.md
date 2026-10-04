@@ -1,4 +1,4 @@
-# 🌾 Gramya – AI-Powered Organic Farming Assistant
+#  Gramya | AI-Powered Organic Farming Assistant
 
 Gramya is an AI-powered organic farming assistant built using **Python, Streamlit, and Large Language Models (LLMs)**. It is designed to help farmers get simple and practical guidance related to crops, organic farming, crop care, pests, irrigation, and sustainable agricultural practices.
 
