@@ -49,3 +49,20 @@ The main goal of Gramya is to make AI-based agricultural assistance more accessi
                  │
                  ▼
           👨‍🌾 Farmer
+Gramya/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+│
+├── data/
+│   └── agricultural_data/
+│
+├── models/
+│   └── model_files/
+│
+├── utils/
+│   └── helper_functions.py
+│
+└── assets/
+    └── images/
